@@ -1,1 +1,1 @@
-
+宠物商店管理的项目，利用了springboot+mybatis+mysql以及一些前端知识
